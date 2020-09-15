@@ -1,5 +1,5 @@
 A  web app developed using `reactjs`  that displays fake information.It is using `fakerjs` package to generate fake data.UI component framework `semantic-ui` is used to style the web app.
-
+ryryryr
 
 ## How to Run?
 
